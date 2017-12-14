@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CodeReader</string>
+    <string name="title_activity_send_email_and_whats_app">SendEmailAndWhatsApp</string>
+</resources>
